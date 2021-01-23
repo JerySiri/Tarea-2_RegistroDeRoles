@@ -128,6 +128,7 @@ namespace Tarea2_RegistroDeRoles
                 DescripcionTextBox.Focus();
                 paso = false;
             }
+
             Actualizar_ConsulaRoles();
             return paso;
         }
