@@ -77,6 +77,7 @@ namespace Tarea2_RegistroDeRoles.BLL
             Contexto contexto = new Contexto();
             bool encontrado = false;
 
+
             try
             {
                 encontrado = contexto.Roles.Any(e => e.descripcion == descripcion);
