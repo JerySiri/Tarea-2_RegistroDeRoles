@@ -74,6 +74,7 @@ namespace Tarea2_RegistroDeRoles.BLL
         }
         public static bool ExisteDescripcion(string descripcion)
         {
+
             Contexto contexto = new Contexto();
             bool encontrado = false;
 
