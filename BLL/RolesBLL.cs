@@ -13,6 +13,7 @@ namespace Tarea2_RegistroDeRoles.BLL
     {
          private static bool Insertar(Roles rol)
          {
+
             bool paso = false;
             Contexto contexto = new Contexto();
 
