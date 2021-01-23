@@ -1,0 +1,15 @@
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.exe
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.deps.json
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.runtimeconfig.json
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.runtimeconfig.dev.json
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.dll
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\bin\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.pdb
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.csprojAssemblyReference.cache
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.Form1.resources
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.csproj.GenerateResource.cache
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.AssemblyInfoInputs.cache
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.AssemblyInfo.cs
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.csproj.CoreCompileInputs.cache
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.dll
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.pdb
+C:\Users\JeryJ\source\repos\Tarea2_RegistroDeRoles\obj\Debug\netcoreapp3.1\Tarea2_RegistroDeRoles.genruntimeconfig.cache
