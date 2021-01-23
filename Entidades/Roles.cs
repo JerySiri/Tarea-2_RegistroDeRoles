@@ -7,6 +7,7 @@ namespace Tarea2_RegistroDeRoles.Entidades
 {
     public class Roles
     {
+
         [Key]
         public int rolesId { get; set; }
         public string descripcion { get; set; }
